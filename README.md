@@ -9,11 +9,11 @@
 * Kendall Gouldthorpe  [kgouldthorpe](https://github.com/kgouldthorpe)
 
 ## Project Objective: 
-We will be using data that takes into account longitude and latitude of major cities in the US to find Charging Stations for Electric Vehicles from a set radius. With that data we will then create three visualizations to display the charging stations around those major cities.  
+We will be using data that takes into account longitude and latitude of major cities in the US to find **Charging Stations** for Electric Vehicles from a set **radius**. With that `data` we will then create three visualizations to display **charging stations** around those major cities.  
 #### Looking specifically at:
-1. How the charging stations range across different cities in the US
-2. The different companies of charging stations in each state
-3. Breaking down the types of charging stations (Rapid, Fast, Slow)
+1. How the **charging stations** range across different cities in the US
+2. The different companies of **charging stations** in each state
+3. Breaking down the types of **charging stations** (**Rapid, Fast, Slow**)
 	
 ## Methodology:
 We will use an `API` to pull data and move it into a `SQLite` `Database`. From there we will use `JavaScript` to create various visualizations for a dashboard of different **charging stations**.
