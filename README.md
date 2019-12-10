@@ -1,5 +1,5 @@
 # PLUGGING IN: Electric Car Charging Stations Dashboard
-![](Electric_Car_Charger.jpg)
+![](images/Electric_Car_Charger.jpg)
 
 ### Team Members: 
 * Yannick Kalukuta	[yanowen](https://github.com/Yanrice)
